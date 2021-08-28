@@ -1,3 +1,5 @@
+changed in master before merge with awesome f.
+
 -changes to test fetch operation
 
 -changed in NotePad
