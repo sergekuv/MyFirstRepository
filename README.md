@@ -1,3 +1,5 @@
+-changes to test fetch operation
+
 -changed in NotePad
 -changed in VS - and amended - and once more
 
