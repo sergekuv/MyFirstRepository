@@ -20,3 +20,5 @@ My 1st repo
 * Что такое Git
 * Что такое GitHub
 * Что такое Markdown
+
+-added string - and commit summary/description
