@@ -1,3 +1,6 @@
+-changed in NotePad
+-changed in VS - and amended - and once more
+
 # MyFirstRepository
 My 1st repo
 
